@@ -1,7 +1,7 @@
 //Code Written by Milton Amaya - ShipNetwork 2023
 window.Webflow ||= [];
 window.Webflow.push(() => {
-  console.log('your savings');
+  console.log('your savings with sn');
 
   const form = document.querySelector('[fs-element="form"]');
   const savings = document.querySelector('[fs-element="total-savings"]');
